@@ -5,7 +5,7 @@ Just clone and build. For example:
   1. clone this GitHub repository
   1. `./gradlew assemble`
 
-## Running the Samples
+## Running the Examples
 
 To try individual examples, build the project from source and then run them like the following:
 
